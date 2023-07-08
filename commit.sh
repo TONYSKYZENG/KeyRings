@@ -1,4 +1,4 @@
-BRANCH=key_rings
+BRANCH=main
 git init
 git checkout -b $BRANCH
 git add .
